@@ -15,10 +15,11 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.aaryanmehta.littlestorymaker",
+      "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#F8F4EA"
       }
     }
   }
 }
-
