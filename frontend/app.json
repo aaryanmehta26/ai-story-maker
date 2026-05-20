@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Little Story Maker",
+    "slug": "little-story-maker",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F8F4EA"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F8F4EA"
+      }
+    }
+  }
+}
+
